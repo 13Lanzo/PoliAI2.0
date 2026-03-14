@@ -1,0 +1,10 @@
+Flask
+Flask-Cors
+SQLAlchemy
+PyMySQL
+python-dotenv
+chromadb
+langchain
+langchain-google-genai
+langchain-community
+pypdf

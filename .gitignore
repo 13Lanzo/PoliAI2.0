@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+dist/
+dist-server/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+Backend/.env
+
+# IDEs and environments
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
